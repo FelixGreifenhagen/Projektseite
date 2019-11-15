@@ -26,8 +26,9 @@ Betritt man meine Website gelangt man zuerst auf die Startseite
 ## Erläuterung
 
 ## Herausforderungen
-Während meines Projekts gab es kleine und große Herausforderungen, wie das neu kennenlernen von Github. Die größte<br> Herausforderung,
-war wohl das die Datenbank an sich das Project fürs zweite Halbjahr war, denn diese Speichert die Daten die man auf der Website<br>
-eingeben kann. Diese hat mich ganz schön ins straucheln gebracht, weil wir Interaktion in unserem Projekt einbringen sollten.<br>
+Während meines Projekts gab es kleine und große Herausforderungen, wie das neu kennenlernen von Github. Die größte<br> 
+Herausforderung, war wohl das die Datenbank an sich das Project fürs zweite Halbjahr war, denn diese Speichert die <br>
+Daten die man auf der Website eingeben kann. Diese hat mich ganz schön ins straucheln gebracht, weil wir Interaktion<br>
+in unserem Projekt einbringen sollten.<br>
 
 ## Schlusswort
