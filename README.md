@@ -32,3 +32,8 @@ Daten die man auf der Website eingeben kann. Diese hat mich ganz schön ins stra
 in unserem Projekt einbringen sollten.<br>
 
 ## Schlusswort
+Ich habe mich am Anfang relativ sicher gefühlt, weil ich dachte Programmieren kenn ich, doch bei der Projektauswahl<br>
+habe ich gemerkt das es anders war. Der ausschlaggebende Punkt war die Interaktivität in eine Website zu bekommen,<br>
+war schwierig, weil ich jedes Detail der Website mir selbst erarbeitet habe und nichts kopiert habe. An sich hat<br>
+mir das Projekt sehr gefallen, weil ich viel neues über das Programmieren gelernt habe und auch Spaß gemacht hat.<br>
+Leider bin ich aber am Ende nicht mit meiner Projektseite fertig geworden, weil ich nicht gut genug organisiert habe
