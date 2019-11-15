@@ -24,6 +24,7 @@ integrieren und jedem Benutzer seinen eigenen individuellen Account zur Verfügu
 Betritt man meine Website gelangt man zuerst auf die Startseite
 
 ## Erläuterung
+<img href="Screenshot (13).png">
 
 ## Herausforderungen
 Während meines Projekts gab es kleine und große Herausforderungen, wie das neu kennenlernen von Github. Die größte<br> 
